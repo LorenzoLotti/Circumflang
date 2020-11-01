@@ -19,8 +19,8 @@ Circumflang has 4 keywords:
 | ^       | Splits the values of the element          |
 
 Circumflang element exemple: `ElementName ^^ value1 ^ value2`\
-Circumflang group exemple: `element1  ^^ value ^^^ element2 ^^ hello ^^ 123`\
-Circumflang data exemple: `element1  ^^ value ^^^ element2 ^^ hello ^^ 123 ^^^^ element1  ^^ value ^^^ element2 ^^ bye ^^ 123`\
+Circumflang group exemple: `element1 ^^ value ^^^ element2 ^^ hello ^ 123`\
+Circumflang data exemple: `element1 ^^ value ^^^ element2 ^^ hello ^ 123 ^^^^ element1 ^^ value ^^^ element2 ^^ bye ^ 123`\
 \
 Complete exemple:
 ```
