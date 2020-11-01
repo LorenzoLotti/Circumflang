@@ -3,7 +3,7 @@
 A metalanguage based on the circumflex (^).\
 This repository contains the parsers in different languages for Circumflang.
 
-## Circumflang Parsers
+## Circumflang parsers
 
 [C# parser](./Parsers/Circumflang.cs)
 
