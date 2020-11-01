@@ -5,7 +5,7 @@ This repository contains the parsers in different languages for Circumflang.
 
 ## Circumflang Parsers
 
-(C# parser)[./Parsers/Circumflang.cs]
+[C# parser](./Parsers/Circumflang.cs)
 
 ## Circumflang rules and syntax
 
