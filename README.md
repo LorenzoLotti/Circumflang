@@ -39,6 +39,6 @@ info ^^
   Another information on the data.
 ```
 
-Elements names are case-insensitive!
-Spaces are not considered outside the values!
+Elements names are case-insensitive!\
+Spaces are not considered outside the values!\
 Returns and newlines are never considered!
