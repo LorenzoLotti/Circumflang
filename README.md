@@ -27,20 +27,20 @@ Complete exemple:
 id ^^ 5699 ^^^
 keys ^^ kcfrdujkDDrt ^ TFURDersIKvj ^^^
 info ^^
-  Information on the data. ^
-  Another information on the data. ^
-  Another information on the data. ^
-  Another information on the data.
+  Data information. ^
+  Another data information. ^
+  Another data information. ^
+  Another data information.
   
 ^^^^
 
 id ^^ 2901 ^^^
 keys ^^ UtiLHICDYX ^ TFURDersIKvj ^^^
 info ^^
-  Information on the data. ^
-  Another information on the data. ^
-  Another information on the data. ^
-  Another information on the data.
+  Data information. ^
+  Another data information. ^
+  Another data information. ^
+  Another data information.
 ```
 
 Elements names are case-insensitive!\
